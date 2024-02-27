@@ -34,30 +34,17 @@ img {
 
 main {
     width: 80%;
+    max-width: 850px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
     padding: 1.5em;
 }
 
-/* .intro {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
-.about {
-    align-items: left;
-    margin: 2em;
-}
-
 .preferences {
     display: flex;
-    align-items: center;
     flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
 }
-
-.likes, .dislikes {
-    display: flex;
-    flex-direction: column;
-} */
